@@ -44,4 +44,4 @@ The objective of this report is to empower the organization with data-driven ins
 
 ---
 
-For more detailed information and analysis, please refer to the complete report. For any further questions or assistance, please contact Olanrewaju Abdulbasit on  [LinkedIn](https://www.linkedin.com/in/olanrewaju-abdulbasit-gbolahan/).
+For more detailed information and analysis, please refer to the complete report. For any further questions or assistance, please contact [Olanrewaju Abdulbasit](https://www.linkedin.com/in/olanrewaju-abdulbasit-gbolahan/).
