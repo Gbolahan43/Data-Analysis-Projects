@@ -1,2 +1,2 @@
-# PowerBi
+# Data Projects
 My powerbi projects
